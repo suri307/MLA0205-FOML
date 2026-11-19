@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.db
+.venv/
+venv/
+.env
+static/charts/*.png
